@@ -1,8 +1,8 @@
 # Camera-Operations-Homography-and-Fundamental-Matrix-Using-SIFT-KNN-RANSAC-Algorithms
 
-1- in [A_Q1.ipynb](https://github.com/98210184/Camera-Operations-Homography-and-Fundamental-Matrix-Using-SIFT-KNN-RANSAC-Algorithms/blob/master/A_Q1.ipynb), we will try to find an object in different images using the keypoints extracted from the SIFT, SURF, and ORB detectors. Then we connect them to find the similrities in different pictures.
+1- in [`A_Q1.ipynb`](https://github.com/98210184/Camera-Operations-Homography-and-Fundamental-Matrix-Using-SIFT-KNN-RANSAC-Algorithms/blob/master/A_Q1.ipynb), we will try to find an object in different images using the keypoints extracted from the SIFT, SURF, and ORB detectors. Then we connect them to find the similrities in different pictures.
 
-2- in [A_Q2.ipynb](https://github.com/98210184/Camera-Operations-Homography-and-Fundamental-Matrix-Using-SIFT-KNN-RANSAC-Algorithms/blob/master/A_Q2.ipynb), we use homography matrixes to change the orientation of a given picture to a desired one.
+2- in [`A_Q2.ipynb`](https://github.com/98210184/Camera-Operations-Homography-and-Fundamental-Matrix-Using-SIFT-KNN-RANSAC-Algorithms/blob/master/A_Q2.ipynb), we use homography matrixes to change the orientation of a given picture to a desired one.
 
 3- in [A_Q3.ipynb](https://github.com/98210184/Camera-Operations-Homography-and-Fundamental-Matrix-Using-SIFT-KNN-RANSAC-Algorithms/blob/master/A_Q3.ipynb), we designed a GUI to show video stream with changing some of the elements like advertisements lively with perspective transform algorithm.
 
